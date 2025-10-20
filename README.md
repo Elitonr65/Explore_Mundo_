@@ -154,9 +154,9 @@ Todos os elementos são **responsivos**, com imagens otimizadas para diferentes 
 ## 📸 **Capturas de Tela**
 
 ```markdown
-![Tela inicial](https://github.com/Elitonr65/Explore_Mundo_/blob/main/assets/prints/destino.png?raw=true)
-![Pacotes de viagem](assets/prints/pacotes.png)
-![Contato](assets/prints/contato.png)
+![Tela inicial](./assets/prints/destino.png)
+![Pacotes de viagem](./assets/prints/pacotes.png)
+![Contato](./assets/prints/contato.png)
 ```
 
 ---
