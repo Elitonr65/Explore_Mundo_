@@ -175,7 +175,7 @@ A aplicação apresenta potencial para expansão, podendo evoluir com autentica�
 
 **Nome:** Eliton Rodrigues de Oliveira
 
-**Repositório GitHub:** [INSIRA O LINK AQUI](#)
+**Repositório GitHub:** [https://github.com/Elitonr65/Explore_Mundo_](#)
 
 ---
 
